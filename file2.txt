@@ -3,4 +3,4 @@ File_2
 Your .git folder = Git’s brain 🧠
 GitHub = just sees the result (files + commit history), not the brain itself
 
-Let me know if you'd like to explore what's inside .git!
+~H
